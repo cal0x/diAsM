@@ -32,8 +32,8 @@ void showhelp()
            "\n\tFunctions:\n%s%s%s%s",
            "\t\tHelp: -h or --help\n",
            "\t\tDisassemble: -d or --disass - file\n",
-           "\t\tHexdump: -hd or --hexdump - file\n",
-            "\t\Bytes to ASM: -ba or --bytestoasm\n",
+           "\t\tHexdump: -hd or --hexdump - file ( Coming soon )\n",
+           "\t\t\Bytes to ASM: -ba or --bytestoasm\n",
            "\n"
            );
 }
