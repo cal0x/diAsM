@@ -1,27 +1,27 @@
-diAsM
+#diAsM 
+
 =====
 
-Disassembler
+The disassembler is in the development phase atm.
 
-Currently this tool is a small disassembler for Mac OS X<br>
-For example dump the output in a text file:
-> cal0x:diAsM cal0x$ ./diAsM diAsM  >> dis.txt
+	Functions:
+		Help: -h or --help 
+		Disassemble: -d or --disass - file
+		Hexdump: -hd or --hexdump - file ( Coming soon )
+		Bytes to ASM: -ba or --bytestoasm
 
-If I have time I will make a version for windows GUI with the following features:
+<br><br>
 
+=====
 
-###Features coming soon ( Windows Edition )
-	1. Disassembler:
-		- 0xAddress: ASM Code
-		
-	2. Hex Dumper:
-		- 0xAddress: Hex Code
-		
-	3. Debugger:
+A windows debugger edition is coming soon.
+
+##diBuG - Windows debugger		
+	1. Debugger:
 		- Set breakpoints
 		- Read register
 		
-	4. Write Memory:
+	2. Write Memory:
 		- Write bytes
 		
 The debugger will be very easy like I explain it here:
