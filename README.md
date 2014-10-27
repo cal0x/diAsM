@@ -1,7 +1,5 @@
 #diAsM 
 
-=====
-
 The disassembler is in the development phase atm.
 
 	Functions:
