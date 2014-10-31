@@ -33,7 +33,7 @@ void showhelp()
            "\t\tHelp: -h or --help\n",
            "\t\tDisassemble: -d or --disass - file\n",
            "\t\tHexdump: -hd or --hexdump - file ( Coming soon )\n",
-           "\t\t\Bytes to ASM: -ba or --bytestoasm\n",
+           "\t\tBytes to ASM: -ba or --bytestoasm\n",
            "\n"
            );
 }
