@@ -19,8 +19,11 @@ A windows debugger edition is coming soon.
 		- Set breakpoints
 		- Read register
 		
-	2. Write Memory:
+	2. Memory:
 		- Write bytes
+		- Read bytes
+		- Scan memory for value
+		- Set memory scan filter ( R, W, RW, From - To, etc )
 		
 The debugger will be very easy like I explain it here:
 http://blog.cal0x.com/2014/09/breakpoints.html
