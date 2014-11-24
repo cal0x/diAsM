@@ -1,3 +1,7 @@
+//The function "diasassemble" should be a const char and return ud_insn_asm.
+//Then in main you print diasassemble(...).
+//The same with hexdump.
+
 #include <udis86.h>
 #include <stdio.h>
 #include <stdlib.h>
